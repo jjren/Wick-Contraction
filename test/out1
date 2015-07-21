@@ -1,0 +1,54 @@
+ input operators array
+ pcr
+ qcr
+ sar
+ rar
+ term:           1
+ sign:           1
+ delta pairs:
+ :normal operator lines:
+ pcr
+ qcr
+ sar
+ rar
+ term:           2
+ sign:          -1
+ delta pairs:
+ pso
+ :normal operator lines:
+ qcr
+ rar
+ term:           3
+ sign:           1
+ delta pairs:
+ pro
+ :normal operator lines:
+ qcr
+ sar
+ term:           4
+ sign:           1
+ delta pairs:
+ qso
+ :normal operator lines:
+ pcr
+ rar
+ term:           5
+ sign:          -1
+ delta pairs:
+ qro
+ :normal operator lines:
+ pcr
+ sar
+ term:           6
+ sign:          -1
+ delta pairs:
+ pso
+ qro
+ :normal operator lines:
+ term:           7
+ sign:           1
+ delta pairs:
+ pro
+ qso
+ :normal operator lines:
+ Wick_Contaction end Successfully!

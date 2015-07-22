@@ -1,0 +1,78 @@
+8
+a b c p q d e f
+c a c c a c a a
+o u o r r u o o
+h
+8
+1.0 
+a o Hb u
+b u Lb u
+c o Ha d
+p r r u
+q r r u
+d u La u
+e o Ha u
+f o Hb d
+1.0 
+a o Hb u
+b u Lb u
+c o Ha d
+p r r d
+q r r d
+d u La u
+e o Ha u
+f o Hb d
+1.0 
+a o Hb d
+b u Lb d
+c o Ha d
+p r r u
+q r r u
+d u La u
+e o Ha u
+f o Hb d
+1.0 
+a o Hb d
+b u Lb d
+c o Ha d
+p r r d
+q r r d
+d u La u
+e o Ha u
+f o Hb d
+-1.0 
+a o Hb u
+b u Lb u
+c o Ha d
+p r r u
+q r r u
+d u La d
+e o Ha d
+f o Hb d
+-1.0 
+a o Hb u
+b u Lb u
+c o Ha d
+p r r d
+q r r d
+d u La d
+e o Ha d
+f o Hb d
+-1.0 
+a o Hb d
+b u Lb d
+c o Ha d
+p r r u
+q r r u
+d u La d
+e o Ha d
+f o Hb d
+-1.0 
+a o Hb d
+b u Lb d
+c o Ha d
+p r r d
+q r r d
+d u La d
+e o Ha d
+f o Hb d

@@ -1,0 +1,215 @@
+ =====================
+ input operators array
+ gco
+ eau
+ pcr
+ qar
+ acu
+ bao
+ =====================
+ term:           1
+ sign:           1
+ delta pairs:
+ :normal operator lines:
+ gco
+ eau
+ pcr
+ qar
+ acu
+ bao
+ ==============================
+ term:           2
+ sign:           1
+ delta pairs:
+ gqo
+ :normal operator lines:
+ eau
+ pcr
+ acu
+ bao
+ ==============================
+ term:           3
+ sign:           1
+ delta pairs:
+ gbo
+ :normal operator lines:
+ eau
+ pcr
+ qar
+ acu
+ ==============================
+ term:           4
+ sign:           1
+ delta pairs:
+ epu
+ :normal operator lines:
+ gco
+ qar
+ acu
+ bao
+ ==============================
+ term:           5
+ sign:           1
+ delta pairs:
+ eau
+ :normal operator lines:
+ gco
+ pcr
+ qar
+ bao
+ ==============================
+ term:           6
+ sign:           1
+ delta pairs:
+ pqo
+ :normal operator lines:
+ gco
+ eau
+ acu
+ bao
+ ==============================
+ term:           7
+ sign:           1
+ delta pairs:
+ pbo
+ :normal operator lines:
+ gco
+ eau
+ qar
+ acu
+ ==============================
+ term:           8
+ sign:           1
+ delta pairs:
+ qau
+ :normal operator lines:
+ gco
+ eau
+ pcr
+ bao
+ ==============================
+ term:           9
+ sign:           1
+ delta pairs:
+ gqo
+ epu
+ :normal operator lines:
+ acu
+ bao
+ ==============================
+ term:          10
+ sign:          -1
+ delta pairs:
+ gqo
+ eau
+ :normal operator lines:
+ pcr
+ bao
+ ==============================
+ term:          11
+ sign:          -1
+ delta pairs:
+ gqo
+ pbo
+ :normal operator lines:
+ eau
+ acu
+ ==============================
+ term:          12
+ sign:           1
+ delta pairs:
+ gbo
+ epu
+ :normal operator lines:
+ qar
+ acu
+ ==============================
+ term:          13
+ sign:           1
+ delta pairs:
+ gbo
+ eau
+ :normal operator lines:
+ pcr
+ qar
+ ==============================
+ term:          14
+ sign:           1
+ delta pairs:
+ gbo
+ pqo
+ :normal operator lines:
+ eau
+ acu
+ ==============================
+ term:          15
+ sign:           1
+ delta pairs:
+ gbo
+ qau
+ :normal operator lines:
+ eau
+ pcr
+ ==============================
+ term:          16
+ sign:           1
+ delta pairs:
+ epu
+ qau
+ :normal operator lines:
+ gco
+ bao
+ ==============================
+ term:          17
+ sign:           1
+ delta pairs:
+ eau
+ pqo
+ :normal operator lines:
+ gco
+ bao
+ ==============================
+ term:          18
+ sign:          -1
+ delta pairs:
+ eau
+ pbo
+ :normal operator lines:
+ gco
+ qar
+ ==============================
+ term:          19
+ sign:           1
+ delta pairs:
+ pbo
+ qau
+ :normal operator lines:
+ gco
+ eau
+ ==============================
+ term:          20
+ sign:          -1
+ delta pairs:
+ gqo
+ eau
+ pbo
+ :normal operator lines:
+ ==============================
+ term:          21
+ sign:           1
+ delta pairs:
+ gbo
+ epu
+ qau
+ :normal operator lines:
+ ==============================
+ term:          22
+ sign:           1
+ delta pairs:
+ gbo
+ eau
+ pqo
+ :normal operator lines:
+ ==============================
+ orbital specific integral
+ Wick_Contaction end Successfully!

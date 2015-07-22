@@ -1,13 +1,225 @@
  =====================
  input operators array
- pcu
- qao
+ aco
+ bau
+ pcr
+ qar
+ ccu
+ dao
  =====================
  term:           1
  sign:           1
  delta pairs:
  :normal operator lines:
- pcu
- qao
+ aco
+ bau
+ pcr
+ qar
+ ccu
+ dao
  ==============================
+ term:           2
+ sign:           1
+ delta pairs:
+ aqo
+ :normal operator lines:
+ bau
+ pcr
+ ccu
+ dao
+ ==============================
+ term:           3
+ sign:           1
+ delta pairs:
+ ado
+ :normal operator lines:
+ bau
+ pcr
+ qar
+ ccu
+ ==============================
+ term:           4
+ sign:           1
+ delta pairs:
+ bpu
+ :normal operator lines:
+ aco
+ qar
+ ccu
+ dao
+ ==============================
+ term:           5
+ sign:           1
+ delta pairs:
+ bcu
+ :normal operator lines:
+ aco
+ pcr
+ qar
+ dao
+ ==============================
+ term:           6
+ sign:           1
+ delta pairs:
+ pqo
+ :normal operator lines:
+ aco
+ bau
+ ccu
+ dao
+ ==============================
+ term:           7
+ sign:           1
+ delta pairs:
+ pdo
+ :normal operator lines:
+ aco
+ bau
+ qar
+ ccu
+ ==============================
+ term:           8
+ sign:           1
+ delta pairs:
+ qcu
+ :normal operator lines:
+ aco
+ bau
+ pcr
+ dao
+ ==============================
+ term:           9
+ sign:           1
+ delta pairs:
+ aqo
+ bpu
+ :normal operator lines:
+ ccu
+ dao
+ ==============================
+ term:          10
+ sign:          -1
+ delta pairs:
+ aqo
+ bcu
+ :normal operator lines:
+ pcr
+ dao
+ ==============================
+ term:          11
+ sign:          -1
+ delta pairs:
+ aqo
+ pdo
+ :normal operator lines:
+ bau
+ ccu
+ ==============================
+ term:          12
+ sign:           1
+ delta pairs:
+ ado
+ bpu
+ :normal operator lines:
+ qar
+ ccu
+ ==============================
+ term:          13
+ sign:           1
+ delta pairs:
+ ado
+ bcu
+ :normal operator lines:
+ pcr
+ qar
+ ==============================
+ term:          14
+ sign:           1
+ delta pairs:
+ ado
+ pqo
+ :normal operator lines:
+ bau
+ ccu
+ ==============================
+ term:          15
+ sign:           1
+ delta pairs:
+ ado
+ qcu
+ :normal operator lines:
+ bau
+ pcr
+ ==============================
+ term:          16
+ sign:           1
+ delta pairs:
+ bpu
+ qcu
+ :normal operator lines:
+ aco
+ dao
+ ==============================
+ term:          17
+ sign:           1
+ delta pairs:
+ bcu
+ pqo
+ :normal operator lines:
+ aco
+ dao
+ ==============================
+ term:          18
+ sign:          -1
+ delta pairs:
+ bcu
+ pdo
+ :normal operator lines:
+ aco
+ qar
+ ==============================
+ term:          19
+ sign:           1
+ delta pairs:
+ pdo
+ qcu
+ :normal operator lines:
+ aco
+ bau
+ ==============================
+ term:          20
+ sign:          -1
+ delta pairs:
+ aqo
+ bcu
+ pdo
+ :normal operator lines:
+ ==============================
+ term:          21
+ sign:           1
+ delta pairs:
+ ado
+ bpu
+ qcu
+ :normal operator lines:
+ ==============================
+ term:          22
+ sign:           1
+ delta pairs:
+ ado
+ bcu
+ pqo
+ :normal operator lines:
+ ==============================
+ orbital specific integral
+ =======================
+ igroup:           1
+ outputterm:          21 sign:           1
+ p Ln
+ q Lm
+ =======================
+ igroup:           8
+ outputterm:          21 sign:           1
+ p Ln
+ q Lm
  Wick_Contaction end Successfully!

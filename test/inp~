@@ -1,40 +1,62 @@
-8
-g e p q r s a b
-c a c c a a c a
-o u r r r r u o
+6
+a b p q c d
+c a c a c a
+o u r r u o
 s
-4
+8
 
-g o Hm u
-e u Lm u
+a o Hm u
+b u Ln u
+p r r u 
+q r r u
+c u Lm u
+d o Hm u
+
+a o Hm u
+b u Ln u
+p r r d 
+q r r d
+c u Lm u
+d o Hm u
+
+a o Hm u
+b u Ln u
 p r r u
 q r r u
-r r r u
-s r r u
-a u Ln u
-b o Hm u
+c u Lm d
+d o Hm d
 
-g o Hm u
-e u Lm u
+a o Hm u
+b u Ln u
 p r r d
 q r r d
-r r r d
-s r r d
-a u Ln u
-b o Hm u
+c u Lm d
+d o Hm d
 
-g o Hm u
-e u Lm u
+a o Hm d
+b u Ln d
 p r r u
-q r r d
-r r r d
-s r r u
-a u Ln u
-
-g o Hm u
-e u Lm u
-p r r d
 q r r u
-r r r u
-s r r d
-a u Ln u
+c u Lm u
+d o Hm u
+
+a o Hm d
+b u Ln d
+p r r d
+q r r d
+c u Lm u
+d o Hm u
+
+a o Hm d
+b u Ln d
+p r r u
+q r r u
+c u Lm d
+d o Hm d
+
+a o Hm d
+b u Ln d
+p r r d
+q r r d
+c u Lm d
+d o Hm d

@@ -1,0 +1,534 @@
+10
+g e p q r s a b c d
+c a c c a a c c a a
+o u r r r r u u o o
+s
+48
+
+g o Hm u
+e u Lm u
+p r r u
+q r r u
+r r r u
+s r r u
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r d
+q r r d
+r r r d
+s r r d
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r u
+q r r d
+r r r d
+s r r u
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r d
+q r r u
+r r r u
+s r r d
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r u
+q r r u
+r r r u
+s r r u
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r d
+q r r d
+r r r d
+s r r d
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r u
+q r r d
+r r r d
+s r r u
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r d
+q r r u
+r r r u
+s r r d
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm u
+e u Lm u
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm u
+e u Lm u
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r u
+q r r u
+r r r u
+s r r u
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r d
+q r r d
+r r r d
+s r r d
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r u
+q r r d
+r r r d
+s r r u
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r d
+q r r u
+r r r u
+s r r d
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r u
+q r r u
+r r r u
+s r r u
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r d
+q r r d
+r r r d
+s r r d
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r u
+q r r d
+r r r d
+s r r u
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r d
+q r r u
+r r r u
+s r r d
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+
+g o Hm d
+e u Lm d
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r u
+q r r u
+r r r u
+s r r u
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r d
+q r r d
+r r r d
+s r r d
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r u
+q r r d
+r r r d
+s r r u
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+
+g o Hm d
+e u Lm d
+p r r d
+q r r u
+r r r u
+s r r d
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u

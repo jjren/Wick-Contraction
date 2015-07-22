@@ -1,54 +1,229 @@
+ =====================
  input operators array
+ aco
+ bau
  pcr
- qcr
- sar
- rar
+ qar
+ ccu
+ dao
+ =====================
  term:           1
  sign:           1
  delta pairs:
  :normal operator lines:
- pcr
- qcr
- sar
- rar
+ a c o 
+ b a u 
+ p c r 
+ q a r 
+ c c u 
+ d a o 
+ ==============================
  term:           2
- sign:          -1
+ sign:           1
  delta pairs:
- pso
+ a q o 
  :normal operator lines:
- qcr
- rar
+ b a u 
+ p c r 
+ c c u 
+ d a o 
+ ==============================
  term:           3
  sign:           1
  delta pairs:
- pro
+ a d o 
  :normal operator lines:
- qcr
- sar
+ b a u 
+ p c r 
+ q a r 
+ c c u 
+ ==============================
  term:           4
  sign:           1
  delta pairs:
- qso
+ b p u 
  :normal operator lines:
- pcr
- rar
+ a c o 
+ q a r 
+ c c u 
+ d a o 
+ ==============================
  term:           5
- sign:          -1
+ sign:           1
  delta pairs:
- qro
+ b c u 
  :normal operator lines:
- pcr
- sar
+ a c o 
+ p c r 
+ q a r 
+ d a o 
+ ==============================
  term:           6
- sign:          -1
+ sign:           1
  delta pairs:
- pso
- qro
+ p q o 
  :normal operator lines:
+ a c o 
+ b a u 
+ c c u 
+ d a o 
+ ==============================
  term:           7
  sign:           1
  delta pairs:
- pro
- qso
+ p d o 
  :normal operator lines:
+ a c o 
+ b a u 
+ q a r 
+ c c u 
+ ==============================
+ term:           8
+ sign:           1
+ delta pairs:
+ q c u 
+ :normal operator lines:
+ a c o 
+ b a u 
+ p c r 
+ d a o 
+ ==============================
+ term:           9
+ sign:           1
+ delta pairs:
+ a q o 
+ b p u 
+ :normal operator lines:
+ c c u 
+ d a o 
+ ==============================
+ term:          10
+ sign:          -1
+ delta pairs:
+ a q o 
+ b c u 
+ :normal operator lines:
+ p c r 
+ d a o 
+ ==============================
+ term:          11
+ sign:          -1
+ delta pairs:
+ a q o 
+ p d o 
+ :normal operator lines:
+ b a u 
+ c c u 
+ ==============================
+ term:          12
+ sign:           1
+ delta pairs:
+ a d o 
+ b p u 
+ :normal operator lines:
+ q a r 
+ c c u 
+ ==============================
+ term:          13
+ sign:           1
+ delta pairs:
+ a d o 
+ b c u 
+ :normal operator lines:
+ p c r 
+ q a r 
+ ==============================
+ term:          14
+ sign:           1
+ delta pairs:
+ a d o 
+ p q o 
+ :normal operator lines:
+ b a u 
+ c c u 
+ ==============================
+ term:          15
+ sign:           1
+ delta pairs:
+ a d o 
+ q c u 
+ :normal operator lines:
+ b a u 
+ p c r 
+ ==============================
+ term:          16
+ sign:           1
+ delta pairs:
+ b p u 
+ q c u 
+ :normal operator lines:
+ a c o 
+ d a o 
+ ==============================
+ term:          17
+ sign:           1
+ delta pairs:
+ b c u 
+ p q o 
+ :normal operator lines:
+ a c o 
+ d a o 
+ ==============================
+ term:          18
+ sign:          -1
+ delta pairs:
+ b c u 
+ p d o 
+ :normal operator lines:
+ a c o 
+ q a r 
+ ==============================
+ term:          19
+ sign:           1
+ delta pairs:
+ p d o 
+ q c u 
+ :normal operator lines:
+ a c o 
+ b a u 
+ ==============================
+ term:          20
+ sign:          -1
+ delta pairs:
+ a q o 
+ b c u 
+ p d o 
+ :normal operator lines:
+ ==============================
+ term:          21
+ sign:           1
+ delta pairs:
+ a d o 
+ b p u 
+ q c u 
+ :normal operator lines:
+ ==============================
+ term:          22
+ sign:           1
+ delta pairs:
+ a d o 
+ b c u 
+ p q o 
+ :normal operator lines:
+ ==============================
+ orbital specific integral
+ =======================
+ igroup:           1
+ outputterm:          21 sign:           1
+ p Ln
+ q Lm
+ =======================
+ igroup:           8
+ outputterm:          21 sign:           1
+ p Ln
+ q Lm
+ ===========================
+ integral term           1
+   2.00000000000000     
+ (Ln|Lm)
  Wick_Contaction end Successfully!

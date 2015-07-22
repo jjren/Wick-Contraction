@@ -1561,4 +1561,173 @@
  qro
  :normal operator lines:
  ==============================
+ orbital specific integral
+ =======================
+ igroup:           1
+ outputterm:         135 sign:          -1
+ r Hm
+ p Ln
+ q Hm
+ s Lm
+ =======================
+ igroup:           1
+ outputterm:         136 sign:           1
+ r Hm
+ q Ln
+ p Hm
+ s Lm
+ =======================
+ igroup:           1
+ outputterm:         139 sign:           1
+ s Hm
+ p Ln
+ q Hm
+ r Lm
+ =======================
+ igroup:           1
+ outputterm:         140 sign:          -1
+ s Hm
+ q Ln
+ p Hm
+ r Lm
+ =======================
+ igroup:           1
+ outputterm:         143 sign:           1
+ p Ln
+ q o
+ r o
+ s Lm
+ =======================
+ igroup:           1
+ outputterm:         144 sign:          -1
+ p Ln
+ q o
+ s o
+ r Lm
+ =======================
+ igroup:           1
+ outputterm:         145 sign:          -1
+ q Ln
+ p o
+ r o
+ s Lm
+ =======================
+ igroup:           1
+ outputterm:         146 sign:           1
+ q Ln
+ p o
+ s o
+ r Lm
+ =======================
+ igroup:           3
+ outputterm:         143 sign:           1
+ p Ln
+ q o
+ r o
+ s Lm
+ =======================
+ igroup:           4
+ outputterm:         146 sign:           1
+ q Ln
+ p o
+ s o
+ r Lm
+ =======================
+ igroup:           7
+ outputterm:         139 sign:           1
+ s Hm
+ p Ln
+ q Hm
+ r Lm
+ =======================
+ igroup:           8
+ outputterm:         136 sign:           1
+ r Hm
+ q Ln
+ p Hm
+ s Lm
+ =======================
+ igroup:          11
+ outputterm:         136 sign:           1
+ r Hm
+ q Ln
+ p Hm
+ s Lm
+ =======================
+ igroup:          12
+ outputterm:         139 sign:           1
+ s Hm
+ p Ln
+ q Hm
+ r Lm
+ =======================
+ igroup:          14
+ outputterm:         135 sign:          -1
+ r Hm
+ p Ln
+ q Hm
+ s Lm
+ =======================
+ igroup:          14
+ outputterm:         136 sign:           1
+ r Hm
+ q Ln
+ p Hm
+ s Lm
+ =======================
+ igroup:          14
+ outputterm:         139 sign:           1
+ s Hm
+ p Ln
+ q Hm
+ r Lm
+ =======================
+ igroup:          14
+ outputterm:         140 sign:          -1
+ s Hm
+ q Ln
+ p Hm
+ r Lm
+ =======================
+ igroup:          14
+ outputterm:         143 sign:           1
+ p Ln
+ q o
+ r o
+ s Lm
+ =======================
+ igroup:          14
+ outputterm:         144 sign:          -1
+ p Ln
+ q o
+ s o
+ r Lm
+ =======================
+ igroup:          14
+ outputterm:         145 sign:          -1
+ q Ln
+ p o
+ r o
+ s Lm
+ =======================
+ igroup:          14
+ outputterm:         146 sign:           1
+ q Ln
+ p o
+ s o
+ r Lm
+ =======================
+ igroup:          15
+ outputterm:         146 sign:           1
+ q Ln
+ p o
+ s o
+ r Lm
+ =======================
+ igroup:          16
+ outputterm:         143 sign:           1
+ p Ln
+ q o
+ r o
+ s Lm
  Wick_Contaction end Successfully!

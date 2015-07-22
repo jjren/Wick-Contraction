@@ -7,14 +7,14 @@ Module Array_mod
 		integer(kind=4) :: sign1
 		integer(kind=4) :: ndeltas
 		integer(kind=4) :: ntermoprs
-		character(len=1) :: deltapair(3,maxnpairs)
-		character(len=1) :: oprline(3,maxnoperators)
+		character(len=2) :: deltapair(3,maxnpairs)
+		character(len=2) :: oprline(3,maxnoperators)
 	end type term
 
 	character(len=1),allocatable :: opr(:,:)
 	character(len=2),allocatable :: groupinfo(:,:,:)
 	type(term),allocatable :: outputterm(:),workinterm(:),workoutterm(:)
-
+	real(kind=8),allocatable :: groupcoeff(:)
 contains
 !=========================================================
 !=========================================================
@@ -27,6 +27,7 @@ subroutine AllocateInpArray
 	allocate(workinterm(maxnterms))
 	allocate(workoutterm(maxnterms))
 	allocate(groupinfo(4,noperators,maxngroups))
+	allocate(groupcoeff(maxngroups))
 	! 1 is the operator subscript i,j,k,l
 	! 2 is the operator orbital o,u,r
 	! 3 is the operator orbital H1,L1...
@@ -44,6 +45,8 @@ subroutine DeallocateArray
 	deallocate(outputterm)
 	deallocate(workinterm)
 	deallocate(workoutterm)
+	deallocate(groupinfo)
+	deallocate(groupcoeff)
 return
 end subroutine DeallocateArray
 

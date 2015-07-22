@@ -1,0 +1,42 @@
+8
+a b c p q d e f
+c a a c a c a c
+o u u r r u o u
+h
+4
+1.0 
+a o Hb u
+b u Lb u
+c u La u
+p r r u
+q r r u
+d u La u
+e o Ha d
+f u Lb d
+1.0 
+a o Hb u
+b u Lb u
+c u La u
+p r r d
+q r r d
+d u La u
+e o Ha d
+f u Lb d
+1.0 
+a o Hb d
+b u Lb d
+c u La u
+p r r u
+q r r u
+d u La u
+e o Ha d
+f u Lb d
+1.0 
+a o Hb d
+b u Lb d
+c u La u
+p r r d
+q r r d
+d u La u
+e o Ha d
+f u Lb d

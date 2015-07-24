@@ -1,0 +1,1148 @@
+ =====================
+ input operators array
+ aau
+ bco
+ cau
+ pcr
+ qar
+ dcu
+ eao
+ fcu
+ =====================
+ term:           1
+ sign:           1
+ delta pairs:
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ p c r 
+ q a r 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:           2
+ sign:           1
+ delta pairs:
+ a p u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ q a r 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:           3
+ sign:           1
+ delta pairs:
+ a d u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ p c r 
+ q a r 
+ e a o 
+ f c u 
+ ==============================
+ term:           4
+ sign:           1
+ delta pairs:
+ a f u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ p c r 
+ q a r 
+ d c u 
+ e a o 
+ ==============================
+ term:           5
+ sign:           1
+ delta pairs:
+ b q o 
+ :normal operator lines:
+ a a u 
+ c a u 
+ p c r 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:           6
+ sign:           1
+ delta pairs:
+ b e o 
+ :normal operator lines:
+ a a u 
+ c a u 
+ p c r 
+ q a r 
+ d c u 
+ f c u 
+ ==============================
+ term:           7
+ sign:           1
+ delta pairs:
+ c p u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ q a r 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:           8
+ sign:           1
+ delta pairs:
+ c d u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ p c r 
+ q a r 
+ e a o 
+ f c u 
+ ==============================
+ term:           9
+ sign:           1
+ delta pairs:
+ c f u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ p c r 
+ q a r 
+ d c u 
+ e a o 
+ ==============================
+ term:          10
+ sign:           1
+ delta pairs:
+ p q o 
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:          11
+ sign:           1
+ delta pairs:
+ p e o 
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ q a r 
+ d c u 
+ f c u 
+ ==============================
+ term:          12
+ sign:           1
+ delta pairs:
+ q d u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ p c r 
+ e a o 
+ f c u 
+ ==============================
+ term:          13
+ sign:           1
+ delta pairs:
+ q f u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ p c r 
+ d c u 
+ e a o 
+ ==============================
+ term:          14
+ sign:          -1
+ delta pairs:
+ a p u 
+ b q o 
+ :normal operator lines:
+ c a u 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:          15
+ sign:          -1
+ delta pairs:
+ a p u 
+ b e o 
+ :normal operator lines:
+ c a u 
+ q a r 
+ d c u 
+ f c u 
+ ==============================
+ term:          16
+ sign:          -1
+ delta pairs:
+ a p u 
+ c d u 
+ :normal operator lines:
+ b c o 
+ q a r 
+ e a o 
+ f c u 
+ ==============================
+ term:          17
+ sign:          -1
+ delta pairs:
+ a p u 
+ c f u 
+ :normal operator lines:
+ b c o 
+ q a r 
+ d c u 
+ e a o 
+ ==============================
+ term:          18
+ sign:           1
+ delta pairs:
+ a p u 
+ q d u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ e a o 
+ f c u 
+ ==============================
+ term:          19
+ sign:           1
+ delta pairs:
+ a p u 
+ q f u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ d c u 
+ e a o 
+ ==============================
+ term:          20
+ sign:           1
+ delta pairs:
+ a d u 
+ b q o 
+ :normal operator lines:
+ c a u 
+ p c r 
+ e a o 
+ f c u 
+ ==============================
+ term:          21
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ :normal operator lines:
+ c a u 
+ p c r 
+ q a r 
+ f c u 
+ ==============================
+ term:          22
+ sign:           1
+ delta pairs:
+ a d u 
+ c p u 
+ :normal operator lines:
+ b c o 
+ q a r 
+ e a o 
+ f c u 
+ ==============================
+ term:          23
+ sign:          -1
+ delta pairs:
+ a d u 
+ c f u 
+ :normal operator lines:
+ b c o 
+ p c r 
+ q a r 
+ e a o 
+ ==============================
+ term:          24
+ sign:           1
+ delta pairs:
+ a d u 
+ p q o 
+ :normal operator lines:
+ b c o 
+ c a u 
+ e a o 
+ f c u 
+ ==============================
+ term:          25
+ sign:          -1
+ delta pairs:
+ a d u 
+ p e o 
+ :normal operator lines:
+ b c o 
+ c a u 
+ q a r 
+ f c u 
+ ==============================
+ term:          26
+ sign:          -1
+ delta pairs:
+ a d u 
+ q f u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ p c r 
+ e a o 
+ ==============================
+ term:          27
+ sign:           1
+ delta pairs:
+ a f u 
+ b q o 
+ :normal operator lines:
+ c a u 
+ p c r 
+ d c u 
+ e a o 
+ ==============================
+ term:          28
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ :normal operator lines:
+ c a u 
+ p c r 
+ q a r 
+ d c u 
+ ==============================
+ term:          29
+ sign:           1
+ delta pairs:
+ a f u 
+ c p u 
+ :normal operator lines:
+ b c o 
+ q a r 
+ d c u 
+ e a o 
+ ==============================
+ term:          30
+ sign:           1
+ delta pairs:
+ a f u 
+ c d u 
+ :normal operator lines:
+ b c o 
+ p c r 
+ q a r 
+ e a o 
+ ==============================
+ term:          31
+ sign:           1
+ delta pairs:
+ a f u 
+ p q o 
+ :normal operator lines:
+ b c o 
+ c a u 
+ d c u 
+ e a o 
+ ==============================
+ term:          32
+ sign:           1
+ delta pairs:
+ a f u 
+ p e o 
+ :normal operator lines:
+ b c o 
+ c a u 
+ q a r 
+ d c u 
+ ==============================
+ term:          33
+ sign:           1
+ delta pairs:
+ a f u 
+ q d u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ p c r 
+ e a o 
+ ==============================
+ term:          34
+ sign:           1
+ delta pairs:
+ b q o 
+ c p u 
+ :normal operator lines:
+ a a u 
+ d c u 
+ e a o 
+ f c u 
+ ==============================
+ term:          35
+ sign:          -1
+ delta pairs:
+ b q o 
+ c d u 
+ :normal operator lines:
+ a a u 
+ p c r 
+ e a o 
+ f c u 
+ ==============================
+ term:          36
+ sign:          -1
+ delta pairs:
+ b q o 
+ c f u 
+ :normal operator lines:
+ a a u 
+ p c r 
+ d c u 
+ e a o 
+ ==============================
+ term:          37
+ sign:          -1
+ delta pairs:
+ b q o 
+ p e o 
+ :normal operator lines:
+ a a u 
+ c a u 
+ d c u 
+ f c u 
+ ==============================
+ term:          38
+ sign:           1
+ delta pairs:
+ b e o 
+ c p u 
+ :normal operator lines:
+ a a u 
+ q a r 
+ d c u 
+ f c u 
+ ==============================
+ term:          39
+ sign:           1
+ delta pairs:
+ b e o 
+ c d u 
+ :normal operator lines:
+ a a u 
+ p c r 
+ q a r 
+ f c u 
+ ==============================
+ term:          40
+ sign:          -1
+ delta pairs:
+ b e o 
+ c f u 
+ :normal operator lines:
+ a a u 
+ p c r 
+ q a r 
+ d c u 
+ ==============================
+ term:          41
+ sign:           1
+ delta pairs:
+ b e o 
+ p q o 
+ :normal operator lines:
+ a a u 
+ c a u 
+ d c u 
+ f c u 
+ ==============================
+ term:          42
+ sign:           1
+ delta pairs:
+ b e o 
+ q d u 
+ :normal operator lines:
+ a a u 
+ c a u 
+ p c r 
+ f c u 
+ ==============================
+ term:          43
+ sign:          -1
+ delta pairs:
+ b e o 
+ q f u 
+ :normal operator lines:
+ a a u 
+ c a u 
+ p c r 
+ d c u 
+ ==============================
+ term:          44
+ sign:           1
+ delta pairs:
+ c p u 
+ q d u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ e a o 
+ f c u 
+ ==============================
+ term:          45
+ sign:           1
+ delta pairs:
+ c p u 
+ q f u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ d c u 
+ e a o 
+ ==============================
+ term:          46
+ sign:           1
+ delta pairs:
+ c d u 
+ p q o 
+ :normal operator lines:
+ a a u 
+ b c o 
+ e a o 
+ f c u 
+ ==============================
+ term:          47
+ sign:          -1
+ delta pairs:
+ c d u 
+ p e o 
+ :normal operator lines:
+ a a u 
+ b c o 
+ q a r 
+ f c u 
+ ==============================
+ term:          48
+ sign:          -1
+ delta pairs:
+ c d u 
+ q f u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ p c r 
+ e a o 
+ ==============================
+ term:          49
+ sign:           1
+ delta pairs:
+ c f u 
+ p q o 
+ :normal operator lines:
+ a a u 
+ b c o 
+ d c u 
+ e a o 
+ ==============================
+ term:          50
+ sign:           1
+ delta pairs:
+ c f u 
+ p e o 
+ :normal operator lines:
+ a a u 
+ b c o 
+ q a r 
+ d c u 
+ ==============================
+ term:          51
+ sign:           1
+ delta pairs:
+ c f u 
+ q d u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ p c r 
+ e a o 
+ ==============================
+ term:          52
+ sign:           1
+ delta pairs:
+ p e o 
+ q d u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ f c u 
+ ==============================
+ term:          53
+ sign:          -1
+ delta pairs:
+ p e o 
+ q f u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ c a u 
+ d c u 
+ ==============================
+ term:          54
+ sign:          -1
+ delta pairs:
+ a p u 
+ b q o 
+ c d u 
+ :normal operator lines:
+ e a o 
+ f c u 
+ ==============================
+ term:          55
+ sign:          -1
+ delta pairs:
+ a p u 
+ b q o 
+ c f u 
+ :normal operator lines:
+ d c u 
+ e a o 
+ ==============================
+ term:          56
+ sign:           1
+ delta pairs:
+ a p u 
+ b e o 
+ c d u 
+ :normal operator lines:
+ q a r 
+ f c u 
+ ==============================
+ term:          57
+ sign:          -1
+ delta pairs:
+ a p u 
+ b e o 
+ c f u 
+ :normal operator lines:
+ q a r 
+ d c u 
+ ==============================
+ term:          58
+ sign:          -1
+ delta pairs:
+ a p u 
+ b e o 
+ q d u 
+ :normal operator lines:
+ c a u 
+ f c u 
+ ==============================
+ term:          59
+ sign:           1
+ delta pairs:
+ a p u 
+ b e o 
+ q f u 
+ :normal operator lines:
+ c a u 
+ d c u 
+ ==============================
+ term:          60
+ sign:           1
+ delta pairs:
+ a p u 
+ c d u 
+ q f u 
+ :normal operator lines:
+ b c o 
+ e a o 
+ ==============================
+ term:          61
+ sign:          -1
+ delta pairs:
+ a p u 
+ c f u 
+ q d u 
+ :normal operator lines:
+ b c o 
+ e a o 
+ ==============================
+ term:          62
+ sign:           1
+ delta pairs:
+ a d u 
+ b q o 
+ c p u 
+ :normal operator lines:
+ e a o 
+ f c u 
+ ==============================
+ term:          63
+ sign:           1
+ delta pairs:
+ a d u 
+ b q o 
+ c f u 
+ :normal operator lines:
+ p c r 
+ e a o 
+ ==============================
+ term:          64
+ sign:           1
+ delta pairs:
+ a d u 
+ b q o 
+ p e o 
+ :normal operator lines:
+ c a u 
+ f c u 
+ ==============================
+ term:          65
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ c p u 
+ :normal operator lines:
+ q a r 
+ f c u 
+ ==============================
+ term:          66
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ c f u 
+ :normal operator lines:
+ p c r 
+ q a r 
+ ==============================
+ term:          67
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ p q o 
+ :normal operator lines:
+ c a u 
+ f c u 
+ ==============================
+ term:          68
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ q f u 
+ :normal operator lines:
+ c a u 
+ p c r 
+ ==============================
+ term:          69
+ sign:          -1
+ delta pairs:
+ a d u 
+ c p u 
+ q f u 
+ :normal operator lines:
+ b c o 
+ e a o 
+ ==============================
+ term:          70
+ sign:          -1
+ delta pairs:
+ a d u 
+ c f u 
+ p q o 
+ :normal operator lines:
+ b c o 
+ e a o 
+ ==============================
+ term:          71
+ sign:           1
+ delta pairs:
+ a d u 
+ c f u 
+ p e o 
+ :normal operator lines:
+ b c o 
+ q a r 
+ ==============================
+ term:          72
+ sign:          -1
+ delta pairs:
+ a d u 
+ p e o 
+ q f u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ ==============================
+ term:          73
+ sign:           1
+ delta pairs:
+ a f u 
+ b q o 
+ c p u 
+ :normal operator lines:
+ d c u 
+ e a o 
+ ==============================
+ term:          74
+ sign:          -1
+ delta pairs:
+ a f u 
+ b q o 
+ c d u 
+ :normal operator lines:
+ p c r 
+ e a o 
+ ==============================
+ term:          75
+ sign:          -1
+ delta pairs:
+ a f u 
+ b q o 
+ p e o 
+ :normal operator lines:
+ c a u 
+ d c u 
+ ==============================
+ term:          76
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ c p u 
+ :normal operator lines:
+ q a r 
+ d c u 
+ ==============================
+ term:          77
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ c d u 
+ :normal operator lines:
+ p c r 
+ q a r 
+ ==============================
+ term:          78
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ p q o 
+ :normal operator lines:
+ c a u 
+ d c u 
+ ==============================
+ term:          79
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ q d u 
+ :normal operator lines:
+ c a u 
+ p c r 
+ ==============================
+ term:          80
+ sign:           1
+ delta pairs:
+ a f u 
+ c p u 
+ q d u 
+ :normal operator lines:
+ b c o 
+ e a o 
+ ==============================
+ term:          81
+ sign:           1
+ delta pairs:
+ a f u 
+ c d u 
+ p q o 
+ :normal operator lines:
+ b c o 
+ e a o 
+ ==============================
+ term:          82
+ sign:          -1
+ delta pairs:
+ a f u 
+ c d u 
+ p e o 
+ :normal operator lines:
+ b c o 
+ q a r 
+ ==============================
+ term:          83
+ sign:           1
+ delta pairs:
+ a f u 
+ p e o 
+ q d u 
+ :normal operator lines:
+ b c o 
+ c a u 
+ ==============================
+ term:          84
+ sign:          -1
+ delta pairs:
+ b q o 
+ c d u 
+ p e o 
+ :normal operator lines:
+ a a u 
+ f c u 
+ ==============================
+ term:          85
+ sign:           1
+ delta pairs:
+ b q o 
+ c f u 
+ p e o 
+ :normal operator lines:
+ a a u 
+ d c u 
+ ==============================
+ term:          86
+ sign:           1
+ delta pairs:
+ b e o 
+ c p u 
+ q d u 
+ :normal operator lines:
+ a a u 
+ f c u 
+ ==============================
+ term:          87
+ sign:          -1
+ delta pairs:
+ b e o 
+ c p u 
+ q f u 
+ :normal operator lines:
+ a a u 
+ d c u 
+ ==============================
+ term:          88
+ sign:           1
+ delta pairs:
+ b e o 
+ c d u 
+ p q o 
+ :normal operator lines:
+ a a u 
+ f c u 
+ ==============================
+ term:          89
+ sign:           1
+ delta pairs:
+ b e o 
+ c d u 
+ q f u 
+ :normal operator lines:
+ a a u 
+ p c r 
+ ==============================
+ term:          90
+ sign:          -1
+ delta pairs:
+ b e o 
+ c f u 
+ p q o 
+ :normal operator lines:
+ a a u 
+ d c u 
+ ==============================
+ term:          91
+ sign:          -1
+ delta pairs:
+ b e o 
+ c f u 
+ q d u 
+ :normal operator lines:
+ a a u 
+ p c r 
+ ==============================
+ term:          92
+ sign:          -1
+ delta pairs:
+ c d u 
+ p e o 
+ q f u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ ==============================
+ term:          93
+ sign:           1
+ delta pairs:
+ c f u 
+ p e o 
+ q d u 
+ :normal operator lines:
+ a a u 
+ b c o 
+ ==============================
+ term:          94
+ sign:           1
+ delta pairs:
+ a p u 
+ b e o 
+ c d u 
+ q f u 
+ :normal operator lines:
+ ==============================
+ term:          95
+ sign:          -1
+ delta pairs:
+ a p u 
+ b e o 
+ c f u 
+ q d u 
+ :normal operator lines:
+ ==============================
+ term:          96
+ sign:           1
+ delta pairs:
+ a d u 
+ b q o 
+ c f u 
+ p e o 
+ :normal operator lines:
+ ==============================
+ term:          97
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ c p u 
+ q f u 
+ :normal operator lines:
+ ==============================
+ term:          98
+ sign:          -1
+ delta pairs:
+ a d u 
+ b e o 
+ c f u 
+ p q o 
+ :normal operator lines:
+ ==============================
+ term:          99
+ sign:          -1
+ delta pairs:
+ a f u 
+ b q o 
+ c d u 
+ p e o 
+ :normal operator lines:
+ ==============================
+ term:         100
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ c p u 
+ q d u 
+ :normal operator lines:
+ ==============================
+ term:         101
+ sign:           1
+ delta pairs:
+ a f u 
+ b e o 
+ c d u 
+ p q o 
+ :normal operator lines:
+ ==============================
+ orbital specific integral
+ =======================
+ igroup:           1
+ outputterm:          94 sign:           1
+ p Lb
+ q Lb
+ =======================
+ igroup:           1
+ outputterm:          99 sign:          -1
+ q Ha
+ p Ha
+ =======================
+ igroup:           1
+ outputterm:         100 sign:           1
+ p La
+ q La
+ =======================
+ igroup:           1
+ outputterm:         101 sign:           1
+ p o 
+ q o 
+ =======================
+ igroup:           2
+ outputterm:         101 sign:           1
+ p o 
+ q o 
+ =======================
+ igroup:           7
+ outputterm:          94 sign:           1
+ p Lb
+ q Lb
+ =======================
+ igroup:           7
+ outputterm:         101 sign:           1
+ p o 
+ q o 
+ =======================
+ igroup:           8
+ outputterm:          99 sign:          -1
+ q Ha
+ p Ha
+ =======================
+ igroup:           8
+ outputterm:         100 sign:           1
+ p La
+ q La
+ =======================
+ igroup:           8
+ outputterm:         101 sign:           1
+ p o 
+ q o 
+ ===========================
+ integral term           1
+  0.000000000000000E+000
+ (Lb|Lb)
+ ===========================
+ integral term           2
+  0.000000000000000E+000
+ (Ha|Ha)
+ ===========================
+ integral term           3
+  0.000000000000000E+000
+ (La|La)
+ ===========================
+ integral term           4
+  0.000000000000000E+000
+ (o |o )
+ Wick_Contaction end Successfully!

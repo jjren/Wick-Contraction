@@ -20,6 +20,7 @@ subroutine Contraction
 	workinterm(1)=outputterm(1)
 	
 	do i=1,noperators/2,1  ! contraction npair loop
+		! max contraction terms
 		maxjterms=(noperators/2+1-i)**2
 		allocate(tmpoutterm(maxjterms))
 		! initiate the workoutterm
@@ -69,8 +70,11 @@ subroutine Search_Same(tmpoutterm,realjterms)
 		do j=1,nworkoutterm,1
 			do k=1,tmpoutterm(i).ndeltas,1
 				ifpairsame=.false.
+				! in fact tmpoutterm(i).ndeltas/=workoutterm(j).ndeltas is useless
+				! but in workoutterm all ndeltas is the same : at the same contraction level
 				do l=1,workoutterm(j).ndeltas,1
 					! the delta pair is not the same
+					! the small operator index is always in the front
 					if((workoutterm(j).deltapair(1,l)==tmpoutterm(i).deltapair(1,k)) .and. &
 						(workoutterm(j).deltapair(2,l)==tmpoutterm(i).deltapair(2,k))) then
 						ifpairsame=.true.
@@ -91,6 +95,7 @@ subroutine Search_Same(tmpoutterm,realjterms)
 			workoutterm(nworkoutterm+naddterms)=tmpoutterm(i)
 		end if
 	end do
+	! the terms from one source should not be the same
 	nworkoutterm=nworkoutterm+naddterms
 
 return
@@ -115,6 +120,7 @@ subroutine Contraction_SinglePair(tmpinterm,tmpoutterm,maxjterms,realjterms)
 			(tmpinterm.oprline(2,i)=='a' .and. tmpinterm.oprline(3,i)=='o') .or. &
 			(tmpinterm.oprline(2,i)==tmpinterm.oprline(2,j)) .or. &
 			(tmpinterm.oprline(3,i)/=tmpinterm.oprline(3,j) .and. tmpinterm.oprline(3,i)/='r' .and. tmpinterm.oprline(3,j)/='r'))  then
+			! these terms contraction is zero
 			cycle
 		else
 			realjterms=realjterms+1

@@ -25,6 +25,7 @@ subroutine InterSingletFission
 				fullfill=.true.
 				do j=1,outputterm(i).ndeltas,1
 					do k=1,noperators,1
+						! find the groupinfo terms corresponse the specific delta
 						if(outputterm(i).deltapair(1,j)==groupinfo(1,k,igroup)) then
 							link1(j)=k
 						else if(outputterm(i).deltapair(2,j)==groupinfo(1,k,igroup)) then
@@ -128,6 +129,7 @@ subroutine sumintegral
 					end if
 				else if(flag=='g') then
 					if (  &  
+						! combine the same two electron integral terms
 						(((sumintegralterm(1,k)==integralterm(1,j,igroup) &
 						.and. sumintegralterm(4,k)==integralterm(4,j,igroup)) .or. & 
 						(sumintegralterm(1,k)==integralterm(4,j,igroup) &
@@ -162,6 +164,9 @@ subroutine sumintegral
 	end do
 	end do
 	
+	write(*,*) "============================================================"
+	write(*,*) "in the two electron term do not forget about the 1/2 factor!"
+	write(*,*) "============================================================"
 	do i=1,realterms,1
 		write(*,*) "==========================="
 		write(*,*) "integral term",i

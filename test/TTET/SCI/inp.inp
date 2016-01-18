@@ -1,0 +1,65 @@
+6 6
+4 4
+L
+2.0
+e o Hn d
+f o Ha u
+g u Ln u
+h u La d
+2.0
+e o Hn u
+f o Ha d
+g u Ln d
+h u La u
+-1.0
+e o Hn d
+f o Ha d
+g u La d
+h u Ln d
+1.0
+e o Hn d
+f o Ha u
+g u La u
+h u Ln d
+1.0
+e o Hn u
+f o Ha d
+g u La d
+h u Ln u
+-1.0
+e o Hn u
+f o Ha u
+g u La u
+h u Ln u
+R
+2.0
+a u Ln d
+b u Lm u
+c o Hn u
+d o Hm d
+2.0
+a u Ln u
+b u Lm d
+c o Hn d
+d o Hm u
+-1.0
+a u Lm d
+b u Ln d
+c o Hn d
+d o Hm d
+1.0
+a u Lm d
+b u Ln u
+c o Hn u
+d o Hm d
+1.0
+a u Lm u
+b u Ln d
+c o Hn d
+d o Hm u
+-1.0
+a u Lm u
+b u Ln u
+c o Hn u
+d o Hm u
+

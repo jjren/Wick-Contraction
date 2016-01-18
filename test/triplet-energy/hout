@@ -1,0 +1,250 @@
+ =====================
+ input operators array
+ eco
+ fau
+ pcr
+ qar
+ acu
+ bao
+ =====================
+ term:           1
+ sign:           1
+ delta pairs:
+ :normal operator lines:
+ e c o 
+ f a u 
+ p c r 
+ q a r 
+ a c u 
+ b a o 
+ ==============================
+ term:           2
+ sign:           1
+ delta pairs:
+ e q o 
+ :normal operator lines:
+ f a u 
+ p c r 
+ a c u 
+ b a o 
+ ==============================
+ term:           3
+ sign:           1
+ delta pairs:
+ e b o 
+ :normal operator lines:
+ f a u 
+ p c r 
+ q a r 
+ a c u 
+ ==============================
+ term:           4
+ sign:           1
+ delta pairs:
+ f p u 
+ :normal operator lines:
+ e c o 
+ q a r 
+ a c u 
+ b a o 
+ ==============================
+ term:           5
+ sign:           1
+ delta pairs:
+ f a u 
+ :normal operator lines:
+ e c o 
+ p c r 
+ q a r 
+ b a o 
+ ==============================
+ term:           6
+ sign:           1
+ delta pairs:
+ p q o 
+ :normal operator lines:
+ e c o 
+ f a u 
+ a c u 
+ b a o 
+ ==============================
+ term:           7
+ sign:           1
+ delta pairs:
+ p b o 
+ :normal operator lines:
+ e c o 
+ f a u 
+ q a r 
+ a c u 
+ ==============================
+ term:           8
+ sign:           1
+ delta pairs:
+ q a u 
+ :normal operator lines:
+ e c o 
+ f a u 
+ p c r 
+ b a o 
+ ==============================
+ term:           9
+ sign:           1
+ delta pairs:
+ e q o 
+ f p u 
+ :normal operator lines:
+ a c u 
+ b a o 
+ ==============================
+ term:          10
+ sign:          -1
+ delta pairs:
+ e q o 
+ f a u 
+ :normal operator lines:
+ p c r 
+ b a o 
+ ==============================
+ term:          11
+ sign:          -1
+ delta pairs:
+ e q o 
+ p b o 
+ :normal operator lines:
+ f a u 
+ a c u 
+ ==============================
+ term:          12
+ sign:           1
+ delta pairs:
+ e b o 
+ f p u 
+ :normal operator lines:
+ q a r 
+ a c u 
+ ==============================
+ term:          13
+ sign:           1
+ delta pairs:
+ e b o 
+ f a u 
+ :normal operator lines:
+ p c r 
+ q a r 
+ ==============================
+ term:          14
+ sign:           1
+ delta pairs:
+ e b o 
+ p q o 
+ :normal operator lines:
+ f a u 
+ a c u 
+ ==============================
+ term:          15
+ sign:           1
+ delta pairs:
+ e b o 
+ q a u 
+ :normal operator lines:
+ f a u 
+ p c r 
+ ==============================
+ term:          16
+ sign:           1
+ delta pairs:
+ f p u 
+ q a u 
+ :normal operator lines:
+ e c o 
+ b a o 
+ ==============================
+ term:          17
+ sign:           1
+ delta pairs:
+ f a u 
+ p q o 
+ :normal operator lines:
+ e c o 
+ b a o 
+ ==============================
+ term:          18
+ sign:          -1
+ delta pairs:
+ f a u 
+ p b o 
+ :normal operator lines:
+ e c o 
+ q a r 
+ ==============================
+ term:          19
+ sign:           1
+ delta pairs:
+ p b o 
+ q a u 
+ :normal operator lines:
+ e c o 
+ f a u 
+ ==============================
+ term:          20
+ sign:          -1
+ delta pairs:
+ e q o 
+ f a u 
+ p b o 
+ :normal operator lines:
+ ==============================
+ term:          21
+ sign:           1
+ delta pairs:
+ e b o 
+ f p u 
+ q a u 
+ :normal operator lines:
+ ==============================
+ term:          22
+ sign:           1
+ delta pairs:
+ e b o 
+ f a u 
+ p q o 
+ :normal operator lines:
+ ==============================
+ orbital specific integral
+ =======================
+ igroup:           1
+ outputterm:          21 sign:           1
+ p L 
+ q L 
+ =======================
+ igroup:           1
+ outputterm:          22 sign:           1
+ p o 
+ q o 
+ =======================
+ igroup:           2
+ outputterm:          20 sign:          -1
+ q H 
+ p H 
+ =======================
+ igroup:           2
+ outputterm:          22 sign:           1
+ p o 
+ q o 
+ ============================================================
+ in the two electron term do not forget about the 1/2 factor!
+ ============================================================
+ ===========================
+ integral term           1
+   1.00000000000000     
+ (L |L )
+ ===========================
+ integral term           2
+   2.00000000000000     
+ (o |o )
+ ===========================
+ integral term           3
+  -1.00000000000000     
+ (H |H )
+ Wick_Contaction end Successfully!

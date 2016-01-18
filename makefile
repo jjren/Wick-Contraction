@@ -21,7 +21,7 @@ Wick : $(object)
 	$(FC) -o $@ $^ -L$(MKLLIB) $(FCCFLAG)
 
 clean:
-	rm -f *.o *.mod DMRG-X
+	rm -f *.o *.mod Wick
 
 	
 

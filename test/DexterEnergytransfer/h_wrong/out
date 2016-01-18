@@ -1,0 +1,61 @@
+ =====================
+ input operators array
+ acu
+ bao
+ pcr
+ qar
+ cco
+ dau
+ =====================
+ term:           1
+ sign:           1
+ delta pairs:
+ :normal operator lines:
+ a c u 
+ b a o 
+ p c r 
+ q a r 
+ c c o 
+ d a u 
+ ==============================
+ term:           2
+ sign:           1
+ delta pairs:
+ p q o 
+ :normal operator lines:
+ a c u 
+ b a o 
+ c c o 
+ d a u 
+ ==============================
+ term:           3
+ sign:           1
+ delta pairs:
+ p d u 
+ :normal operator lines:
+ a c u 
+ b a o 
+ q a r 
+ c c o 
+ ==============================
+ term:           4
+ sign:           1
+ delta pairs:
+ q c o 
+ :normal operator lines:
+ a c u 
+ b a o 
+ p c r 
+ d a u 
+ ==============================
+ term:           5
+ sign:           1
+ delta pairs:
+ p d u 
+ q c o 
+ :normal operator lines:
+ a c u 
+ b a o 
+ ==============================
+ orbital specific integral
+ Wick_Contaction end Successfully!
